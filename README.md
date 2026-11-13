@@ -8,7 +8,6 @@ compliance deadlines and uses bots (RPA) to send reminders automatically.
 **Live app:** https://gstclientmanagement.streamlit.app
 
 * Login password: ask the project owner (shared privately, not published here).
-* The test version runs in **DRY RUN** mode — it never sends real emails or messages.
 * Data resets whenever the free host restarts or sleeps. After logging in, add a client
   or import the sample CSV (Clients → *Import Clients from CSV* → *Download Sample CSV*).
 * Step-by-step test checklist: **[TESTING.md](TESTING.md)**
