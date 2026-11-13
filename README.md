@@ -47,15 +47,7 @@ Python · Streamlit · SQLAlchemy + SQLite · APScheduler · Gmail SMTP · Teleg
 Playwright (Chromium) · pandas · openpyxl
 
 ---
-
-## Screenshots
-
-*(Add 3–4 screenshots here — see the upload guide. Suggested: Dashboard, Clients,
-Reminder Log, Bot Activity.)*
-
 <!-- ![Dashboard](images/dashboard.png) -->
-
----
 
 ## Known limitations (Version 1)
 
